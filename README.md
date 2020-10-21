@@ -1,4 +1,4 @@
-# LoL_Winner_Prediction
+# LoL Winner Prediction Based on First 10 mins
 
 ## Author
 
