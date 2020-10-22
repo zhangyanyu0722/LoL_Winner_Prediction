@@ -36,7 +36,7 @@ Towers: Structures you have to destroy to reach the enemy Nexus. They give gold.
 
 Level: Champion level. Start at 1. Max is 18.
 
-## There are many ways to download and run it:
+## Quick Start:
 ```
 library(shiny)
 
