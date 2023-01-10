@@ -1,4 +1,4 @@
-# LoL Winner Prediction (10 mins) test
+# LoL Winner Prediction (10 mins)
 
 ## Author
 
